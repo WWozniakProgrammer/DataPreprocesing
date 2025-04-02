@@ -27,4 +27,7 @@
 - Brief conclusions about data quality after the applied changes.
 - Optionally, run a simple KNN model before and after to compare model accuracy.
 
+## Link to presentation:
+[:clapper:](https://docs.google.com/presentation/d/1dapCt245SvU6YeAd088bVNZ1r24v5F-jvU2fpXMMw0s/edit?usp=sharing)
+
 # No i ten... Po robocie :wink:
